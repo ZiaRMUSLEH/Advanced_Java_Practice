@@ -2,12 +2,11 @@ package generics.clasess;
 
 public class PairRunnerClass {
 
-    /*
-
-Task: Implement a generic class called Pair that represents a pair of elements.
-The Pair class should have two type parameters, T and U, representing the types of the two elements in the pair.
-Then, create a runner class to demonstrate the usage of the Pair class with different types.
- */
+            /*
+            Task: Implement a generic class called Pair that represents a pair of elements.
+            The Pair class should have two type parameters, T and U, representing the types of the two elements in the pair.
+            Then, create a runner class to demonstrate the usage of the Pair class with different types.
+            */
 
 
     public static void main(String[] args) {

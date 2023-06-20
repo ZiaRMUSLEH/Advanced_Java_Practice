@@ -11,6 +11,7 @@ public class BoxRunnerClass {
         stringBox.setItem("Welcome to the word of generics ");
 
         System.out.println("update item in StringBox:"+ stringBox.getItem());
+
         // Task 2 Create 2 a Box to store and retrieve integers
         Box<Integer> integerBox2 = new Box<>(20);
         System.out.println("Item in stringBox " +integerBox2.getItem());
